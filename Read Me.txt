@@ -1,5 +1,3 @@
-How to run NewsPortal Project
-
 1. Download the the zip file
 2. Extract the file and copy newsportal folder
 3.Paste inside root directory(for xampp xamp/htdocs, for wampp/www,fpr lamp var/www/html)
