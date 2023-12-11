@@ -42,7 +42,7 @@ echo "<script>alert('User not registered with us');</script>";
 
 
         <!-- App title -->
-        <title>News Portal | Admin Panel</title>
+        <title>Beritata | Admin Panel</title>
 
         <!-- App css -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
