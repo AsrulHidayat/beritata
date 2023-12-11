@@ -1,4 +1,4 @@
-# Tugas untuk Latihan
+# Latihan untuk tugas
 
 ## Kode admin 
 username / email : admin/ campcodes@gmail.com
