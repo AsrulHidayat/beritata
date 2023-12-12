@@ -43,7 +43,7 @@ if($_GET['presid'])
         <!-- App favicon -->
         <link rel="shortcut icon" href="assets/images/favicon.ico">
         <!-- App title -->
-        <title>Newsportal | Manage Posts</title>
+        <title>Beritata | Manage Posts</title>
 
         <!--Morris Chart CSS -->
 		<link rel="stylesheet" href="../plugins/morris/morris.css">
