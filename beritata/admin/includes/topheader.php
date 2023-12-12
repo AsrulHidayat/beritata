@@ -2,16 +2,16 @@
 
                 <!-- LOGO -->
                 <div class="topbar-left">
-                    <a href="index.html" class="logo"><span>NEWS<span>PORTAL</span></span><i class="mdi mdi-layers"></i></a>
+                    <a href="index.html" class="logo"><span>BERITA<span>TA</span></span><i class="mdi mdi-layers"></i></a>
                     <!-- Image logo -->
-                    <!--<a href="index.html" class="logo">-->
-                        <!--<span>-->
-                            <!--<img src="assets/images/logo.png" alt="" height="30">-->
-                        <!--</span>-->
-                        <!--<i>-->
-                            <!--<img src="assets/images/logo_sm.png" alt="" height="28">-->
-                        <!--</i>-->
-                    <!--</a>-->
+                    <!-- <a href="index.html" class="logo">
+                        <span>
+                            <img src="assets/images/Logo beritata.svg" alt="" height="42">
+                        </span>
+                        <i>
+                            <img src="assets/images/logo_sm.png" alt="" height="28">
+                        </i>
+                    </a> -->
                 </div>
 
                 <!-- Button mobile view to collapse sidebar menu -->
