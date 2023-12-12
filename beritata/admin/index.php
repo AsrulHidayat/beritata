@@ -72,7 +72,7 @@ echo "<script>alert('User not registered with us');</script>";
                                 <div class="text-center account-logo-box">
                                     <h2 class="text-uppercase">
                                         <a href="index.html" class="text-success">
-                                            <span><img src="assets/images/Logo beritata.svg" alt="" height="56"></span>
+                                            <span><img src="assets/images/Logo " alt="" height="56"></span>
                                         </a>
                                     </h2>
                                     <!--<h4 class="text-uppercase font-bold m-b-0">Sign In</h4>-->

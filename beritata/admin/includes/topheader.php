@@ -6,7 +6,7 @@
                     <!-- Image logo -->
                     <a href="index.html" class="logo">
                         <span>
-                            <img src="assets/images/beritata.svg" alt="" height="42">
+                            <img src="assets/images/Beritata.svg" alt="" height="38">
                         </span>
                         <i>
                             <!-- <img src="assets/images/logo_sm.png" alt="" height="28"> -->
